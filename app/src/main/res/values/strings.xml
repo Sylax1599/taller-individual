@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TallerIndividual</string>
+
+    <string-array name="intentos">
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+    </string-array>
+</resources>
